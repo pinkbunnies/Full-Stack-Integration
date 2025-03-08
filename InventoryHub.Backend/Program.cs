@@ -1,23 +1,36 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Configuración de CORS (más adelante se ajustará)
+// Configuración de CORS (opcional, según el entorno)
 builder.Services.AddCors();
 
 var app = builder.Build();
 
-// Usar CORS con la política que permitiremos en el siguiente paso
 app.UseCors(policy =>
-     policy.AllowAnyOrigin()
-           .AllowAnyMethod()
-           .AllowAnyHeader());
+    policy.AllowAnyOrigin()
+          .AllowAnyMethod()
+          .AllowAnyHeader());
 
-// Actualizar la ruta a /api/productlist
+// Endpoint actualizado para devolver productos con categoría anidada
 app.MapGet("/api/productlist", () =>
 {
     return new[]
     {
-        new { Id = 1, Name = "Laptop", Price = 1200.50, Stock = 25 },
-        new { Id = 2, Name = "Headphones", Price = 50.00, Stock = 100 }
+        new
+        {
+            Id = 1,
+            Name = "Laptop",
+            Price = 1200.50,
+            Stock = 25,
+            Category = new { Id = 101, Name = "Electronics" }
+        },
+        new
+        {
+            Id = 2,
+            Name = "Headphones",
+            Price = 50.00,
+            Stock = 100,
+            Category = new { Id = 102, Name = "Accessories" }
+        }
     };
 });
 

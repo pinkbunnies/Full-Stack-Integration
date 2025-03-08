@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "InventoryHub.Frontend",
   "resources": {
-    "hash": "sha256-1T2hWprXwtmvDBgvvnFNDaHhV0hads9a7KLc+mB0zgw=",
+    "hash": "sha256-ccGqo7Qg6sA4f5YlNa9Q5t+RmN3idaX+cK0u450Dguo=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.esv38zo127.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.cwj0bpb71v.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "InventoryHub.Frontend.g1fexthixq.wasm": "InventoryHub.Frontend.wasm",
-      "InventoryHub.Frontend.ee552d5maq.pdb": "InventoryHub.Frontend.pdb"
+      "InventoryHub.Frontend.26r7jdsxym.wasm": "InventoryHub.Frontend.wasm",
+      "InventoryHub.Frontend.u7x9c01igc.pdb": "InventoryHub.Frontend.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8bti36lthm.js": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
@@ -412,10 +412,10 @@
       "WindowsBase.tuf34ieu7y.wasm": "sha256-Bd+l972cOS1eVeLzrQNlgD6LPWV1QXBSzJhv8Tx1WGI=",
       "mscorlib.5q5u0swn6q.wasm": "sha256-g9cI1sECkF7bxMqOSB+W0a4utdDsqTrqZzyiAEeA65g=",
       "netstandard.w8gk1pigg1.wasm": "sha256-QFR5QNPfvyZTexW3IA/AFx6ZmIF/TecvOUsSK4gM4po=",
-      "InventoryHub.Frontend.g1fexthixq.wasm": "sha256-XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs="
+      "InventoryHub.Frontend.26r7jdsxym.wasm": "sha256-SszsVCqLnHYp5ALM4adHb4tOEDOz2ZFuJNhQadhChtI="
     },
     "pdb": {
-      "InventoryHub.Frontend.ee552d5maq.pdb": "sha256-lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI="
+      "InventoryHub.Frontend.u7x9c01igc.pdb": "sha256-aiwqjZiWJctM25IhU+CON9vUzQ9SI+R/39lxjYkgdgo="
     }
   },
   "cacheBootResources": true,

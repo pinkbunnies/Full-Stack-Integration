@@ -9,3 +9,4 @@ Run the server using on each folder:
 /InventoryHub.Frontend/dotnet run
 
 The api now accepts other domains by the CORS and improved another level of security with the Json.
+Improved the JSON structura adding data to categorize the products.

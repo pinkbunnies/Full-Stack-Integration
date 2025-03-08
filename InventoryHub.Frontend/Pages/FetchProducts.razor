@@ -1,22 +1,28 @@
 @page "/fetchproducts"
 @using System.Text.Json
+@using System.Linq
 @inject HttpClient Http
 
 <h3>Product List</h3>
 
-<ul>
-    @if (products != null)
+@if (products != null)
+{
+    @* Agrupar los productos por el nombre de la categoría y mostrar cada grupo *@
+    foreach (var group in products.GroupBy(p => p.Category?.Name))
     {
-        foreach (var product in products)
-        {
-            <li>@product.Name - $@product.Price</li>
-        }
+        <h4>@(string.IsNullOrEmpty(group.Key) ? "Uncategorized" : group.Key)</h4>
+        <ul>
+            @foreach (var product in group)
+            {
+                <li>@product.Name - $@product.Price</li>
+            }
+        </ul>
     }
-    else
-    {
-        <li>Loading...</li>
-    }
-</ul>
+}
+else
+{
+    <p>Loading...</p>
+}
 
 @code {
     private Product[]? products;
@@ -25,7 +31,7 @@
     {
         try
         {
-            // Realiza la petición a la ruta actualizada /api/productlist
+            // Petición al endpoint /api/productlist
             var response = await Http.GetAsync("/api/productlist");
             response.EnsureSuccessStatusCode();
             var json = await response.Content.ReadAsStringAsync();
@@ -46,5 +52,12 @@
         public string Name { get; set; } = string.Empty;
         public double Price { get; set; }
         public int Stock { get; set; }
+        public Category? Category { get; set; }
+    }
+
+    public class Category
+    {
+        public int Id { get; set; }
+        public string Name { get; set; } = string.Empty;
     }
 }

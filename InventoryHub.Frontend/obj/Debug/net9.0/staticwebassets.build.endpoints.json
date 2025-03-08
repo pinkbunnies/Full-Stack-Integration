@@ -301,145 +301,8 @@
       ]
     },
     {
-      "Route": "_framework/InventoryHub.Frontend.pdb",
-      "AssetFile": "_framework/InventoryHub.Frontend.z2kfini84h.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "25392"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:11 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.pdb",
-      "AssetFile": "_framework/InventoryHub.Frontend.z2kfini84h.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000053567602"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.pdb.gz",
-      "AssetFile": "_framework/InventoryHub.Frontend.z2kfini84h.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm",
-      "AssetFile": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm",
+      "Route": "_framework/InventoryHub.Frontend.ee552d5maq.pdb",
+      "AssetFile": "_framework/InventoryHub.Frontend.ee552d5maq.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -452,7 +315,168 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20245"
+          "Value": "25716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ee552d5maq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/InventoryHub.Frontend.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.ee552d5maq.pdb",
+      "AssetFile": "_framework/InventoryHub.Frontend.ee552d5maq.pdb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000052952078"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ee552d5maq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/InventoryHub.Frontend.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.ee552d5maq.pdb.gz",
+      "AssetFile": "_framework/InventoryHub.Frontend.ee552d5maq.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ee552d5maq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/InventoryHub.Frontend.pdb.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.g1fexthixq.wasm",
+      "AssetFile": "_framework/InventoryHub.Frontend.g1fexthixq.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20757"
         },
         {
           "Name": "Content-Type",
@@ -460,21 +484,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro=\""
+          "Value": "\"XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:11 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vnuigsyhl2"
+          "Value": "g1fexthixq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro="
+          "Value": "sha256-XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs="
         },
         {
           "Name": "label",
@@ -483,13 +507,13 @@
       ]
     },
     {
-      "Route": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm",
-      "AssetFile": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm.gz",
+      "Route": "_framework/InventoryHub.Frontend.g1fexthixq.wasm",
+      "AssetFile": "_framework/InventoryHub.Frontend.g1fexthixq.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000115074799"
+          "Quality": "0.000109902187"
         }
       ],
       "ResponseHeaders": [
@@ -507,7 +531,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8689"
+          "Value": "9098"
         },
         {
           "Name": "Content-Type",
@@ -515,15 +539,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k=\""
+          "Value": "\"GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro=\""
+          "Value": "W/\"XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         },
         {
           "Name": "Vary",
@@ -533,11 +557,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vnuigsyhl2"
+          "Value": "g1fexthixq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro="
+          "Value": "sha256-XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs="
         },
         {
           "Name": "label",
@@ -546,8 +570,8 @@
       ]
     },
     {
-      "Route": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm.gz",
-      "AssetFile": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm.gz",
+      "Route": "_framework/InventoryHub.Frontend.g1fexthixq.wasm.gz",
+      "AssetFile": "_framework/InventoryHub.Frontend.g1fexthixq.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -564,7 +588,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8689"
+          "Value": "9098"
         },
         {
           "Name": "Content-Type",
@@ -572,11 +596,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k=\""
+          "Value": "\"GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         },
         {
           "Name": "Vary",
@@ -586,11 +610,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vnuigsyhl2"
+          "Value": "g1fexthixq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k="
+          "Value": "sha256-GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y="
         },
         {
           "Name": "label",
@@ -599,8 +623,8 @@
       ]
     },
     {
-      "Route": "_framework/InventoryHub.Frontend.wasm",
-      "AssetFile": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm",
+      "Route": "_framework/InventoryHub.Frontend.pdb",
+      "AssetFile": "_framework/InventoryHub.Frontend.ee552d5maq.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -613,36 +637,36 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20245"
+          "Value": "25716"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro=\""
+          "Value": "\"lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:11 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro="
+          "Value": "sha256-lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI="
         }
       ]
     },
     {
-      "Route": "_framework/InventoryHub.Frontend.wasm",
-      "AssetFile": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm.gz",
+      "Route": "_framework/InventoryHub.Frontend.pdb",
+      "AssetFile": "_framework/InventoryHub.Frontend.ee552d5maq.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000115074799"
+          "Quality": "0.000052952078"
         }
       ],
       "ResponseHeaders": [
@@ -660,23 +684,23 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8689"
+          "Value": "18884"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k=\""
+          "Value": "\"IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro=\""
+          "Value": "W/\"lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         },
         {
           "Name": "Vary",
@@ -686,13 +710,150 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro="
+          "Value": "sha256-lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.pdb.gz",
+      "AssetFile": "_framework/InventoryHub.Frontend.ee552d5maq.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.wasm",
+      "AssetFile": "_framework/InventoryHub.Frontend.g1fexthixq.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.wasm",
+      "AssetFile": "_framework/InventoryHub.Frontend.g1fexthixq.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000109902187"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs="
         }
       ]
     },
     {
       "Route": "_framework/InventoryHub.Frontend.wasm.gz",
-      "AssetFile": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm.gz",
+      "AssetFile": "_framework/InventoryHub.Frontend.g1fexthixq.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -709,7 +870,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8689"
+          "Value": "9098"
         },
         {
           "Name": "Content-Type",
@@ -717,11 +878,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k=\""
+          "Value": "\"GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         },
         {
           "Name": "Vary",
@@ -731,168 +892,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.z2kfini84h.pdb",
-      "AssetFile": "_framework/InventoryHub.Frontend.z2kfini84h.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "25392"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:11 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z2kfini84h"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/InventoryHub.Frontend.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.z2kfini84h.pdb",
-      "AssetFile": "_framework/InventoryHub.Frontend.z2kfini84h.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000053567602"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z2kfini84h"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/InventoryHub.Frontend.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.z2kfini84h.pdb.gz",
-      "AssetFile": "_framework/InventoryHub.Frontend.z2kfini84h.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z2kfini84h"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/InventoryHub.Frontend.pdb.gz"
+          "Value": "sha256-GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y="
         }
       ]
     },
@@ -57241,17 +57241,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ycojzkH483BzCtce2xU7Eu7htOCOIFecwUDZSn5NuS0=\""
+          "Value": "\"IaWyVNLu9MzJ+NZ8Eei2qIQtDIgTQN9Xh9XoarjSwRg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:03:40 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ycojzkH483BzCtce2xU7Eu7htOCOIFecwUDZSn5NuS0="
+          "Value": "sha256-IaWyVNLu9MzJ+NZ8Eei2qIQtDIgTQN9Xh9XoarjSwRg="
         }
       ]
     },
@@ -57288,15 +57288,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3qnctRuu8kX/NuyVeh/O2Rfq3LZq1pLeNfjcycYYzAA=\""
+          "Value": "\"7YEWTT7g8FzJO0blRwU//6SnhDUjm6yPj/mZPsSH6bc=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ycojzkH483BzCtce2xU7Eu7htOCOIFecwUDZSn5NuS0=\""
+          "Value": "W/\"IaWyVNLu9MzJ+NZ8Eei2qIQtDIgTQN9Xh9XoarjSwRg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
+          "Value": "Sat, 08 Mar 2025 11:24:55 GMT"
         },
         {
           "Name": "Vary",
@@ -57306,7 +57306,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ycojzkH483BzCtce2xU7Eu7htOCOIFecwUDZSn5NuS0="
+          "Value": "sha256-IaWyVNLu9MzJ+NZ8Eei2qIQtDIgTQN9Xh9XoarjSwRg="
         }
       ]
     },
@@ -57337,11 +57337,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3qnctRuu8kX/NuyVeh/O2Rfq3LZq1pLeNfjcycYYzAA=\""
+          "Value": "\"7YEWTT7g8FzJO0blRwU//6SnhDUjm6yPj/mZPsSH6bc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
+          "Value": "Sat, 08 Mar 2025 11:24:55 GMT"
         },
         {
           "Name": "Vary",
@@ -57351,7 +57351,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3qnctRuu8kX/NuyVeh/O2Rfq3LZq1pLeNfjcycYYzAA="
+          "Value": "sha256-7YEWTT7g8FzJO0blRwU//6SnhDUjm6yPj/mZPsSH6bc="
         }
       ]
     },

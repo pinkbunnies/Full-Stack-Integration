@@ -1074,10 +1074,10 @@
 /dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/refint/InventoryHub.Frontend.dll
 /dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/InventoryHub.Frontend.pdb
 /dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/ref/InventoryHub.Frontend.dll
-/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.z2kfini84h.pdb
-/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.vnuigsyhl2.wasm
-/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.vnuigsyhl2.wasm.gz
-/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.z2kfini84h.pdb.gz
-/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-vnuigsyhl2.gz
-/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-z2kfini84h.gz
-/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/mixcd740rp-tr6i456bcy.gz
+/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.ee552d5maq.pdb
+/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.g1fexthixq.wasm
+/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.g1fexthixq.wasm.gz
+/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.ee552d5maq.pdb.gz
+/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-g1fexthixq.gz
+/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-ee552d5maq.gz
+/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/mixcd740rp-7qzgigrc41.gz

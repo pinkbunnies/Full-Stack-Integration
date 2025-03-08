@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ugBxcvXCLMMbcL7VCNvy0TrV+tmcfln7r1BarypprSQ=",
+  "Hash": "y5HwrrbAUe3b5m++K+yIhaBaoWdZTPZrhNyKJZ+GCOk=",
   "Source": "InventoryHub.Frontend",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "tr6i456bcy",
-      "Integrity": "ycojzkH483BzCtce2xU7Eu7htOCOIFecwUDZSn5NuS0=",
+      "Fingerprint": "7qzgigrc41",
+      "Integrity": "IaWyVNLu9MzJ+NZ8Eei2qIQtDIgTQN9Xh9XoarjSwRg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "z2kfini84h",
-      "Integrity": "a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk=",
+      "Fingerprint": "ee552d5maq",
+      "Integrity": "lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/InventoryHub.Frontend.pdb"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "vnuigsyhl2",
-      "Integrity": "u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro=",
+      "Fingerprint": "g1fexthixq",
+      "Integrity": "XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/webcil/InventoryHub.Frontend.wasm"
@@ -7451,7 +7451,7 @@
       "OriginalItemSpec": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/System.Drawing.Primitives.wasm"
     },
     {
-      "Identity": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/mixcd740rp-tr6i456bcy.gz",
+      "Identity": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/mixcd740rp-7qzgigrc41.gz",
       "SourceId": "InventoryHub.Frontend",
       "SourceType": "Computed",
       "ContentRoot": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/",
@@ -7465,8 +7465,8 @@
       "RelatedAsset": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qe5nr8o1et",
-      "Integrity": "3qnctRuu8kX/NuyVeh/O2Rfq3LZq1pLeNfjcycYYzAA=",
+      "Fingerprint": "jgg341239p",
+      "Integrity": "7YEWTT7g8FzJO0blRwU//6SnhDUjm6yPj/mZPsSH6bc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -8816,12 +8816,12 @@
       "OriginalItemSpec": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-vnuigsyhl2.gz",
+      "Identity": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-g1fexthixq.gz",
       "SourceId": "InventoryHub.Frontend",
       "SourceType": "Computed",
       "ContentRoot": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/InventoryHub.Frontend#[.{fingerprint=vnuigsyhl2}]!.wasm.gz",
+      "RelativePath": "_framework/InventoryHub.Frontend#[.{fingerprint=g1fexthixq}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8830,8 +8830,8 @@
       "RelatedAsset": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ilxt5xj4u1",
-      "Integrity": "qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k=",
+      "Fingerprint": "bv4l3oni83",
+      "Integrity": "GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.wasm"
@@ -9005,12 +9005,12 @@
       "OriginalItemSpec": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-z2kfini84h.gz",
+      "Identity": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-ee552d5maq.gz",
       "SourceId": "InventoryHub.Frontend",
       "SourceType": "Computed",
       "ContentRoot": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/InventoryHub.Frontend#[.{fingerprint=z2kfini84h}]!.pdb.gz",
+      "RelativePath": "_framework/InventoryHub.Frontend#[.{fingerprint=ee552d5maq}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9019,8 +9019,8 @@
       "RelatedAsset": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sm3blem1e8",
-      "Integrity": "3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8=",
+      "Fingerprint": "hs6j3r9riu",
+      "Integrity": "IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.pdb"
@@ -10705,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ycojzkH483BzCtce2xU7Eu7htOCOIFecwUDZSn5NuS0=\""
+          "Value": "\"IaWyVNLu9MzJ+NZ8Eei2qIQtDIgTQN9Xh9XoarjSwRg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:03:40 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,13 +10719,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ycojzkH483BzCtce2xU7Eu7htOCOIFecwUDZSn5NuS0="
+          "Value": "sha256-IaWyVNLu9MzJ+NZ8Eei2qIQtDIgTQN9Xh9XoarjSwRg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/mixcd740rp-tr6i456bcy.gz",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/mixcd740rp-7qzgigrc41.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10744,11 +10744,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3qnctRuu8kX/NuyVeh/O2Rfq3LZq1pLeNfjcycYYzAA=\""
+          "Value": "\"7YEWTT7g8FzJO0blRwU//6SnhDUjm6yPj/mZPsSH6bc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
+          "Value": "Sat, 08 Mar 2025 11:24:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ycojzkH483BzCtce2xU7Eu7htOCOIFecwUDZSn5NuS0=\""
+          "Value": "W/\"IaWyVNLu9MzJ+NZ8Eei2qIQtDIgTQN9Xh9XoarjSwRg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ycojzkH483BzCtce2xU7Eu7htOCOIFecwUDZSn5NuS0="
+          "Value": "sha256-IaWyVNLu9MzJ+NZ8Eei2qIQtDIgTQN9Xh9XoarjSwRg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/mixcd740rp-tr6i456bcy.gz",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/mixcd740rp-7qzgigrc41.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3qnctRuu8kX/NuyVeh/O2Rfq3LZq1pLeNfjcycYYzAA=\""
+          "Value": "\"7YEWTT7g8FzJO0blRwU//6SnhDUjm6yPj/mZPsSH6bc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
+          "Value": "Sat, 08 Mar 2025 11:24:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3qnctRuu8kX/NuyVeh/O2Rfq3LZq1pLeNfjcycYYzAA="
+          "Value": "sha256-7YEWTT7g8FzJO0blRwU//6SnhDUjm6yPj/mZPsSH6bc="
         }
       ]
     },
@@ -13643,7 +13643,7 @@
       ]
     },
     {
-      "Route": "_framework/InventoryHub.Frontend.pdb",
+      "Route": "_framework/InventoryHub.Frontend.ee552d5maq.pdb",
       "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13653,7 +13653,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25392"
+          "Value": "25716"
         },
         {
           "Name": "Content-Type",
@@ -13661,148 +13661,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk=\""
+          "Value": "\"lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.pdb",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-z2kfini84h.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000053567602"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18667"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.pdb.gz",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-z2kfini84h.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20245"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:11 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13812,305 +13675,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vnuigsyhl2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/InventoryHub.Frontend.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-vnuigsyhl2.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000115074799"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8689"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vnuigsyhl2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/InventoryHub.Frontend.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.vnuigsyhl2.wasm.gz",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-vnuigsyhl2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8689"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vnuigsyhl2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/InventoryHub.Frontend.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.wasm",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20245"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.wasm",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-vnuigsyhl2.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000115074799"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8689"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-u8sAYKX66bxc8y5v+a+q7I+uKZMY+LLcyjhwoIelMro="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.wasm.gz",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-vnuigsyhl2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8689"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qjeSQa31szHvkLaEb3cPdjG7MfQcNp/I7rio44wUf3k="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/InventoryHub.Frontend.z2kfini84h.pdb",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "25392"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z2kfini84h"
+          "Value": "ee552d5maq"
         },
         {
           "Name": "label",
@@ -14118,18 +13683,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk="
+          "Value": "sha256-lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI="
         }
       ]
     },
     {
-      "Route": "_framework/InventoryHub.Frontend.z2kfini84h.pdb",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-z2kfini84h.gz",
+      "Route": "_framework/InventoryHub.Frontend.ee552d5maq.pdb",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-ee552d5maq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000053567602"
+          "Quality": "0.000052952078"
         }
       ],
       "ResponseHeaders": [
@@ -14139,15 +13704,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18667"
+          "Value": "18884"
         },
         {
           "Name": "ETag",
-          "Value": "\"3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8=\""
+          "Value": "\"IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14167,13 +13732,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk=\""
+          "Value": "W/\"lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z2kfini84h"
+          "Value": "ee552d5maq"
         },
         {
           "Name": "label",
@@ -14181,13 +13746,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-a0Gmev+kcj5CLSmwbRk7gS9/KI1lF81WxdhBZQARGGk="
+          "Value": "sha256-lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI="
         }
       ]
     },
     {
-      "Route": "_framework/InventoryHub.Frontend.z2kfini84h.pdb.gz",
-      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-z2kfini84h.gz",
+      "Route": "_framework/InventoryHub.Frontend.ee552d5maq.pdb.gz",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-ee552d5maq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14196,7 +13761,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18667"
+          "Value": "18884"
         },
         {
           "Name": "Content-Type",
@@ -14204,11 +13769,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8=\""
+          "Value": "\"IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 11:02:12 GMT"
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14226,7 +13791,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z2kfini84h"
+          "Value": "ee552d5maq"
         },
         {
           "Name": "label",
@@ -14234,7 +13799,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3EsxnZphRdua4sUSNpqxlKarr9TYq/1UkJGZAjFpyw8="
+          "Value": "sha256-IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.g1fexthixq.wasm",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1fexthixq"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/InventoryHub.Frontend.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.g1fexthixq.wasm",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-g1fexthixq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000109902187"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9098"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1fexthixq"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/InventoryHub.Frontend.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.g1fexthixq.wasm.gz",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-g1fexthixq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1fexthixq"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/InventoryHub.Frontend.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.pdb",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.pdb",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-ee552d5maq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000052952078"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18884"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lhAIpct5o4RMck2/ERG6Y8H1tfAqk+EVgvqWocjTLlI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.pdb.gz",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/wm5t5nzmsk-ee552d5maq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IShsLTVIojBTbokgrLd/2nZtNIAzqU46fB25dgR/LBM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.wasm",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/bin/Debug/net9.0/wwwroot/_framework/InventoryHub.Frontend.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.wasm",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-g1fexthixq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000109902187"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9098"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNf5qUTkBy2jzhzvNTwAifEMRoOkJ9CKNhnvHFHnBZs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/InventoryHub.Frontend.wasm.gz",
+      "AssetFile": "/dotNet/Full-Stack-Integration/InventoryHub.Frontend/obj/Debug/net9.0/compressed/vq4co63xg4-g1fexthixq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:27:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GcF15E7cabT+1gsoFm8lYtCkYqYlQpyAMzuK4icaQ3Y="
         }
       ]
     },

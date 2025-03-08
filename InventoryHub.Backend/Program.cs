@@ -1,22 +1,18 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Agregar el servicio de CORS y definir la política
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowFrontend", policy =>
-    {
-        policy.WithOrigins("http://api-servers.cloud:5120") // Permitir el origen del front-end
-              .AllowAnyHeader()
-              .AllowAnyMethod();
-    });
-});
+// Configuración de CORS (más adelante se ajustará)
+builder.Services.AddCors();
 
 var app = builder.Build();
 
-// Usar la política de CORS definida
-app.UseCors("AllowFrontend");
+// Usar CORS con la política que permitiremos en el siguiente paso
+app.UseCors(policy =>
+     policy.AllowAnyOrigin()
+           .AllowAnyMethod()
+           .AllowAnyHeader());
 
-app.MapGet("/api/products", () =>
+// Actualizar la ruta a /api/productlist
+app.MapGet("/api/productlist", () =>
 {
     return new[]
     {

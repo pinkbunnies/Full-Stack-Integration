@@ -7,3 +7,5 @@ http://api-servers.cloud:5120/fetchproducts
 Run the server using on each folder:
 /InventoryHub.Backend/dotnet run
 /InventoryHub.Frontend/dotnet run
+
+The api now accepts other domains by the CORS and improved another level of security with the Json.

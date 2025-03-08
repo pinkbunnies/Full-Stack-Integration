@@ -1,13 +1,14 @@
 @page "/fetchproducts"
 @using System.Text.Json
 @using System.Linq
-@inject HttpClient Http
+@using InventoryHub.Frontend.Services
+@inject ProductService productService
 
 <h3>Product List</h3>
 
 @if (products != null)
 {
-    @* Agrupar los productos por el nombre de la categoría y mostrar cada grupo *@
+    @* Agrupar productos por categoría y mostrar cada grupo con un título *@
     foreach (var group in products.GroupBy(p => p.Category?.Name))
     {
         <h4>@(string.IsNullOrEmpty(group.Key) ? "Uncategorized" : group.Key)</h4>
@@ -29,23 +30,12 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        try
-        {
-            // Petición al endpoint /api/productlist
-            var response = await Http.GetAsync("/api/productlist");
-            response.EnsureSuccessStatusCode();
-            var json = await response.Content.ReadAsStringAsync();
-            products = JsonSerializer.Deserialize<Product[]>(
-                json,
-                new JsonSerializerOptions { PropertyNameCaseInsensitive = true }
-            );
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"Error: {ex.Message}");
-        }
+        // Código optimizado: se carga la lista de productos desde el ProductService (evita llamadas redundantes)
+        await productService.LoadProductsAsync();
+        products = productService.Products;
     }
 
+    // Definición de modelos de datos
     public class Product
     {
         public int Id { get; set; }

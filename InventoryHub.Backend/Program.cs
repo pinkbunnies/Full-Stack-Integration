@@ -1,34 +1,34 @@
-using Microsoft.Extensions.Caching.Memory;
+using Microsoft.Extensions.Caching.Memory; // Import the memory caching library
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Agregar MemoryCache para implementar caching
+// Add MemoryCache service to enable in-memory caching
 builder.Services.AddMemoryCache();
 
-// Agregar servicios CORS
+// Add CORS (Cross-Origin Resource Sharing) services to control API access
 builder.Services.AddCors();
 
 var app = builder.Build();
 
-// Configuración de CORS para permitir cualquier origen
+// Configure CORS to allow requests from any origin, method, and header
 app.UseCors(policy =>
-    policy.AllowAnyOrigin()
-          .AllowAnyMethod()
-          .AllowAnyHeader());
+    policy.AllowAnyOrigin() // Allows requests from any domain (not restricted)
+          .AllowAnyMethod() // Allows all HTTP methods (GET, POST, etc.)
+          .AllowAnyHeader()); // Allows any headers in requests
 
-// Obtener el servicio de caché
+// Retrieve the memory cache service
 var cache = app.Services.GetRequiredService<IMemoryCache>();
 
-// Endpoint que devuelve la lista de productos con objeto 'Category' anidado
+// Define an API endpoint that returns a list of products, including nested 'Category' objects
 app.MapGet("/api/productlist", () =>
 {
-    // Utiliza la caché para reducir llamadas redundantes
+    // Use caching to reduce redundant API calls
     return cache.GetOrCreate("ProductList", entry =>
     {
-        // Establecer expiración de la caché a 5 minutos
+        // Set cache expiration to 5 minutes
         entry.AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(5);
 
-        // Código generado con ayuda de Copilot para estructurar la respuesta JSON
+        // Predefined product list with category information (generated with AI assistance)
         return new[]
         {
             new
@@ -51,4 +51,5 @@ app.MapGet("/api/productlist", () =>
     });
 });
 
+// Start the web application and listen for incoming requests
 app.Run();

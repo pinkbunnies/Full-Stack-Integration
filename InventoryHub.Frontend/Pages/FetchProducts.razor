@@ -1,20 +1,22 @@
-@page "/fetchproducts"
-@using System.Text.Json
-@using System.Linq
-@using InventoryHub.Frontend.Services
-@inject ProductService productService
+@page "/fetchproducts" // Defines the route for this page
+@using System.Text.Json // Imports the JSON serialization namespace
+@using System.Linq // Imports LINQ for querying and grouping collections
+@using InventoryHub.Frontend.Services // Imports the ProductService namespace
+@inject ProductService productService // Injects the ProductService for dependency injection
 
 <h3>Product List</h3>
 
 @if (products != null)
 {
-    @* Agrupar productos por categoría y mostrar cada grupo con un título *@
+    @* Group products by category and display each group with a title *@
     foreach (var group in products.GroupBy(p => p.Category?.Name))
     {
+        // Display category name; if null or empty, label as "Uncategorized"
         <h4>@(string.IsNullOrEmpty(group.Key) ? "Uncategorized" : group.Key)</h4>
         <ul>
             @foreach (var product in group)
             {
+                // Display product name and price
                 <li>@product.Name - $@product.Price</li>
             }
         </ul>
@@ -22,20 +24,25 @@
 }
 else
 {
+    // Show a loading message while products are being fetched
     <p>Loading...</p>
 }
 
 @code {
+    // Private field to store the list of products, initially null
     private Product[]? products;
 
+    // Lifecycle method that runs when the component initializes
     protected override async Task OnInitializedAsync()
     {
-        // Código optimizado: se carga la lista de productos desde el ProductService (evita llamadas redundantes)
+        // Optimized code: load the product list from ProductService (avoids redundant API calls)
         await productService.LoadProductsAsync();
-        products = productService.Products;
+        products = productService.Products; // Assign fetched products to the local variable
     }
 
-    // Definición de modelos de datos
+    // Data model definitions
+
+    // Represents a Product with properties for ID, name, price, stock, and category
     public class Product
     {
         public int Id { get; set; }
@@ -45,6 +52,7 @@ else
         public Category? Category { get; set; }
     }
 
+    // Represents a Category with an ID and name
     public class Category
     {
         public int Id { get; set; }
